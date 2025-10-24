@@ -31,16 +31,16 @@ const About = () => {
               </h3>
               <div className="space-y-4 font-mono text-sm">
                 <div>
-                  <p className="font-bold">SENIOR DEVELOPER</p>
-                  <p className="text-muted-foreground">Company Name • 2020-Present</p>
+                  <p className="font-bold"></p>
+                  <p className="text-muted-foreground"></p>
                 </div>
                 <div>
-                  <p className="font-bold">FULLSTACK DEVELOPER</p>
-                  <p className="text-muted-foreground">Another Company • 2018-2020</p>
+                  <p className="font-bold"></p>
+                  <p className="text-muted-foreground"></p>
                 </div>
                 <div>
-                  <p className="font-bold">JUNIOR DEVELOPER</p>
-                  <p className="text-muted-foreground">First Company • 2016-2018</p>
+                  <p className="font-bold"></p>
+                  <p className="text-muted-foreground"></p>
                 </div>
               </div>
             </div>
